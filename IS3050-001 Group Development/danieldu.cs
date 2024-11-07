@@ -8,5 +8,10 @@ namespace IS3050_001_Group_Development
 {
     internal class danieldu
     {
+        public void HappyHalloween()
+        {
+            Console.WriteLine("Daquan Daniels");
+            Console.WriteLine("Favorite Candy: Snickers");
+        }
     }
 }
